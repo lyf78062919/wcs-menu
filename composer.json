@@ -1,0 +1,18 @@
+{
+	"name": "wcs/menu",
+	"description": "make menus for wcs",
+	"type": "yii2-extension",
+	"keywords": ["menu"],
+	"license": "Apache-2.0",
+	"authors": [
+		{
+			"name": "lhy",
+			"email": "lyf78062919@gmail.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"\\wcs\\menu\\": ""
+		}
+	}
+}
